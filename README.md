@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 AgriCrop – Geospatial Plant Disease & Soil Moisture Intelligence Network
 
 <div align="center">
@@ -302,3 +303,6 @@ Built with ❤️ for smallholder farmers worldwide.
 **🌱 AgriCrop — Empowering Farmers with AI Intelligence 🌱**
 
 </div>
+=======
+# AGRICROP
+>>>>>>> b942ad267a018ac3a2f805435458297153c3e0a2
