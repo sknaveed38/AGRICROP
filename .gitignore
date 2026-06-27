@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+.env.local
+.env.production
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build outputs
+agricrop-frontend/dist/
+agricrop-frontend/build/
+*.log
+
+# AI Models (large files)
+agricrop-backend/ai/models/*.h5
+agricrop-backend/ai/models/*.pkl
+agricrop-backend/ai/models/*.joblib
+agricrop-backend/ai/models/*.tflite
+
+# Uploads
+agricrop-backend/uploads/
+
+# Coverage
+coverage/
+.coverage
+htmlcov/
